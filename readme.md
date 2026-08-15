@@ -1,5 +1,7 @@
 # Página de ventas — TikTok Monetización (versión gris)
 
+DEMO:https://pip3-00.github.io/repo-tibo/
+
 Landing page tipo funnel inspirada en el video de referencia, adaptada a una
 paleta en escala de grises (grafito/steel) en lugar de morado/negro.
 
